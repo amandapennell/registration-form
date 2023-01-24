@@ -1,2 +1,2 @@
-# registration-form
- FCC HTML + CSS practice
+# [Learn HTML Forms by Building a Registration Form](https://amandapennell.github.io/registration-form/)
+Part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
